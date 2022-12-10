@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "doremebusiness-2024e",
+    "private_key_id": "5d8721d3121b709e69122520ea82cf78f0e1bf74",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQClpjdB7n9pyxFB\nzXQp+vi6iH+jcIeIKGAp+CQ2j8i5KRO05rWe4ID9I0OZCHlMR7NweWC5K0yOmIP6\n/7bQ5xDu90BHp2pOXGDDY+7niMvY453Icb6jj6TlJGpMzw+4U3xnCDeROCCL5ykB\ntFJE6Cu79oGEswQWjwxx5tJLny5SBR0ZR+2tkAnljZnXfWho+Tv0I/4yHDNSVqmv\nzVsTpBvjpq+iIl92h46bxSNTNlXlZ+zShcMWIPoSAKkDnYuMsPLLeYYzg24bConc\nvaOCXAh4EN16tMsUPL1/Xc18feIT+bbYH3a7PXalaokDrXickJkY/CnUfIog6BrV\nlpdlaoYVAgMBAAECggEADkE+Rph3UvuUZdkAGt+72VOHRmGX7DXrRplRxnc7owF/\nrmTfMsenmgEXn1r9Ez0lWjO7yNuKyEekLeylBxenW6Uf3TqxOYKWGiJmq/qX7jdy\nO85cBTfGjSiD1E3KUMawcS5iF8dgd6GiJAEoRkFDiDaXoTuFicpwG/os1TCi3BBs\nnogckjBIfgflitrY5PuAsmv8tbuA7X7Q/gg4B08DrBixsV0dW5/0+2MEnLtdta1U\nPIYkV7kvLP+s/R9jMWao4ZZTt7lZmPLAU34Hn/WyjAKx0LKKEYCPFydwxMr0g/4o\njsGHPO7HWDmnU2OcNFQySvkfbkh6p5z2g1v36ybaUQKBgQDWgfy7CNVvM/BcyjUL\nChjXoJaep/b1EDwv6LGfTF/cv02OQtdZHt7rMh0f9nJa3ejqCW8Cmp8kUki85Wtc\nB+qGRpwTsE00aRhlutT4MyV0oT+1cQ5mByOKN9yEGZK+vRwB2AuOJ43fEUsgLdoA\nYJhGjeBe3pff+mlcD1udI6l+MQKBgQDFsNmwtNO4d9XLL48HZPa3dySC8mPas7s+\nYLSfZU77lQpChGYC+999ZIEZzwqFxKp3ZKFfvybIc7o85v5YSlQAFrwAkJOjl7dS\nwBtYGEkV+AKnLKpMOEWZ1UNaSMvqv8VFv4mk/Wc/SnOQakuM2FPZnHapKLa4Jk7l\nbwtcKYCZJQKBgFPszZ27yg3VC2CyeGhWTfvnR6bRXozpCjNQXlZOAl+StVxIiIrE\nykDI/Z4oxPsKQXt3r2gcaNFEJFNLi2KZckeQzrXhT4OG7tW2cGafVDM6d3ucvR5s\nApqsWmmQu9pGkPOjvHmkvhwdXwA7EET/hfRsw/E6M7+c8KXlGFn1vvWxAoGAL7rO\nJFLUV1JfhOobn05qHsuePhtlrnT8fUf99AoSsr0+N+cddhT31Z+BaAjL4pYkDiV2\nrNZK99SxH2kp+YkglNDoXT6K1tGXilwlffSHGM3DXjdzemmPrF+IHnE7ApeAeqGP\nCw2/ctF362MukHfebsjPAXJ6AyYEoHJaDMtcaB0CgYAsXKBPANmgNZ+wJ9I6UXnN\ntgu1T80/H/RLQ5SKO7RPoEHF0FJXjH3TAigBOASfVhTS9w8eHCaIK09hH25h/fX1\nm4yZc6gl8cpNaEwsCwKPef/zn6O9qUv1tZyiDNAlmXH9NseGEEF3vxRuOR+l0lUj\nkTWLO9SG+KaIZ9hi2iGbew==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-mastx@doremebusiness-2024e.iam.gserviceaccount.com",
+    "client_id": "100452157202651469715",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-mastx%40doremebusiness-2024e.iam.gserviceaccount.com"
+  }
+  
